@@ -1,0 +1,5 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines -->
+    <Dimen name="activity_horizontal_margin">16dp</Dimen>
+    <Dimen name="activity_vertical_margin">16dp</Dimen>
+</resources>
